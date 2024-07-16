@@ -1,11 +1,10 @@
 # Project Title
 
-Smart Contract Project
+Function Frontend
 
 ## Description
 
-A smart contract management with frontend.
-
+For this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
 
 ### Executing program
 After cloning the github, you will want to do the following to get the code running on your computer.
