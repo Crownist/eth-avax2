@@ -1,5 +1,13 @@
-# Starter Next/Hardhat Project
+# Project Title
 
+Smart Contract Project
+
+## Description
+
+A smart contract management with frontend.
+
+
+### Executing program
 After cloning the github, you will want to do the following to get the code running on your computer.
 
 1. Inside the project directory, in the terminal type: npm i
@@ -10,3 +18,11 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Authors
+Carlos Joaquin Buno
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
